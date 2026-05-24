@@ -5,11 +5,18 @@ A graphical memory forensics analysis tool for Windows, Linux, and macOS images.
 ## Features
 
 Run Commands: Select from a wide range of forensic plugins for different OS types.
+
 Interactive Q&A and Help: Get instant answers to how to use the tool and perform investigations effectively.
+
 Guided Workflow: Receive command suggestions based on your investigation type.
+
 Threat Intelligence Integration: Lookup IPs using VirusTotal and analyze suspicious process names through MalwareBazaar.
-YARA Malware Scanning: Automatically scan memory dump files using YARA rules to detect suspicious patterns, malware signatures, and indicators of compromise (IOCs).
+
+YARA Malware Scanning: Automatically scan memory dump files using YARA rules to detect suspicious patterns, malware signatures, and indicators of compromise 
+(IOCs).
+
 Output Search & Highlight: Find and highlight specific artifacts or keywords within forensic analysis results.
+
 Save Results: Automatically save command outputs and analysis results to the selected folder.
 
 ## Getting Started
